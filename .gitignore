@@ -7,6 +7,9 @@
 *.pb.cc
 *.pb.h
 
+tools/gRPC-win32/
+tools/protobuf-win32/
+
 build/
 src/build/
 OpenBuildService/
